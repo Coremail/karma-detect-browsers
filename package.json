@@ -1,8 +1,8 @@
 {
-    "name": "karma-detect-browsers",
+    "name": "@coremail/karma-detect-browsers",
     "description": "Karma runner plugin for detecting all browsers installed on the current system.",
-    "version": "2.3.3",
-    "homepage": "https://github.com/litixsoft/karma-detect-browsers",
+    "version": "2.3.3-beta.1",
+    "homepage": "https://github.com/coremail/karma-detect-browsers",
     "author": {
         "name": "Litixsoft GmbH",
         "email": "info@litixsoft.de"
